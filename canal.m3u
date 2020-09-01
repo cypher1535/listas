@@ -1,1265 +1,354 @@
 #EXTM3U
-#EXTINF:0 tvg-id="avi" group-title="Channels",Revisión de Tutoriales
-https://www.youtube.com/channel/UC6qEcXBiDsRcRxhZV4VKVlA
-#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Central HD | Latino
-http://cdn.miip.tv:8080/canada/123456/1
-#EXTINF:0 tvg-id="Home.uk" group-title="Channels",Discovery Home
-http://cdn.miip.tv:8080/canada/123456/13
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CIVILIZACION | MX
-http://cdn.miip.tv:8080/canada/123456/14
-#EXTINF:0 tvg-id="NBCUniverso.us" group-title="Channels",NBC Universo
-http://cdn.miip.tv:8080/canada/123456/16
-#EXTINF:0 tvg-id="ext" group-title="Channels",Galavision | MX
-http://cdn.miip.tv:8080/canada/123456/17
-#EXTINF:0 tvg-id="MSGPlus.us" group-title="Channels",MSG PLUS
-http://cdn.miip.tv:8080/canada/123456/19
-#EXTINF:0 tvg-id="ext" group-title="Channels",Msg
-http://cdn.miip.tv:8080/canada/123456/20
-#EXTINF:0 tvg-id="TSN2.ca" group-title="Channels",Tsn 2
-http://cdn.miip.tv:8080/canada/123456/21
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVN | CHI
-http://cdn.miip.tv:8080/canada/123456/23
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGA | CHI
-http://cdn.miip.tv:8080/canada/123456/24
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDF PREMIUN | CHI
-http://cdn.miip.tv:8080/canada/123456/26
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDF BASICO | CHI
-http://cdn.miip.tv:8080/canada/123456/27
-#EXTINF:0 tvg-id="TSN3.ca" group-title="Channels",Tsn 3
-http://cdn.miip.tv:8080/canada/123456/28
-#EXTINF:0 tvg-id="TSN4.ca" group-title="Channels",Tsn 4
-http://cdn.miip.tv:8080/canada/123456/29
-#EXTINF:0 tvg-id="TSN5.ca" group-title="Channels",Tsn 5
-http://cdn.miip.tv:8080/canada/123456/30
-#EXTINF:0 tvg-id="ext" group-title="Channels",LA RED | CHI
-http://cdn.miip.tv:8080/canada/123456/31
-#EXTINF:0 tvg-id="boec" group-title="Channels",Fight
-http://cdn.miip.tv:8080/canada/123456/32
-#EXTINF:0 tvg-id="ext" group-title="Channels",ETC | CHI
-http://cdn.miip.tv:8080/canada/123456/33
-#EXTINF:0 tvg-id="ext" group-title="Channels",CHILE 13 | CHI
-http://cdn.miip.tv:8080/canada/123456/34
-#EXTINF:0 tvg-id="ext" group-title="Channels",H2 | CA
-http://cdn.miip.tv:8080/canada/123456/35
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIMPSONS 24/7
-http://cdn.miip.tv:8080/canada/123456/36
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Net Pacific
-http://cdn.miip.tv:8080/canada/123456/37
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Net World
-http://cdn.miip.tv:8080/canada/123456/39
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVISION DALLAS
-http://cdn.miip.tv:8080/canada/123456/40
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVISION CHICAGO
-http://cdn.miip.tv:8080/canada/123456/41
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Net 360
-http://cdn.miip.tv:8080/canada/123456/42
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO DALLAS
-http://cdn.miip.tv:8080/canada/123456/43
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport net one
-http://cdn.miip.tv:8080/canada/123456/44
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Net Ontario
-http://cdn.miip.tv:8080/canada/123456/45
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Net East
-http://cdn.miip.tv:8080/canada/123456/46
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nba Ca
-http://cdn.miip.tv:8080/canada/123456/47
-#EXTINF:0 tvg-id="ext" group-title="Channels",WGN NEWS CHICAGO
-http://cdn.miip.tv:8080/canada/123456/48
-#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca 7 | MX
-http://cdn.miip.tv:8080/canada/123456/49
-#EXTINF:0 tvg-id="NBCSportsNetwork.us" group-title="Channels",NBC SPORTS
-http://cdn.miip.tv:8080/canada/123456/50
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Channels",CBS SPORTS
-http://cdn.miip.tv:8080/canada/123456/51
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mexiquese | MX
-http://cdn.miip.tv:8080/canada/123456/52
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",beIN Sports ñ
-http://cdn.miip.tv:8080/canada/123456/53
-#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Mundo | MX
-http://cdn.miip.tv:8080/canada/123456/54
-#EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="Channels",FOX SOCCER PLUS
-http://cdn.miip.tv:8080/canada/123456/55
-#EXTINF:0 tvg-id="IFC.us" group-title="Channels",IFC
-http://cdn.miip.tv:8080/canada/123456/56
-#EXTINF:0 tvg-id="Hallmark.us" group-title="Channels",HALLMARK CHANNEL
-http://cdn.miip.tv:8080/canada/123456/57
-#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Corazon | MX
-http://cdn.miip.tv:8080/canada/123456/58
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVISIONCANADA
-http://cdn.miip.tv:8080/canada/123456/59
-#EXTINF:0 tvg-id="ext" group-title="Channels",Azteca Uno | MX
-http://cdn.miip.tv:8080/canada/123456/60
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT SERIES
-http://cdn.miip.tv:8080/canada/123456/61
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL CHAVO 24/7
-http://cdn.miip.tv:8080/canada/123456/62
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Max | MX
-http://cdn.miip.tv:8080/canada/123456/63
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY JR USA
-http://cdn.miip.tv:8080/canada/123456/64
-#EXTINF:0 tvg-id="ext" group-title="Channels",Televisa | MX
-http://cdn.miip.tv:8080/canada/123456/65
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL LATINO
-http://cdn.miip.tv:8080/canada/123456/66
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOS JETSONS 24/7
-http://cdn.miip.tv:8080/canada/123456/67
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 8 | MX
-http://cdn.miip.tv:8080/canada/123456/68
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 2 | MX
-http://cdn.miip.tv:8080/canada/123456/69
-#EXTINF:0 tvg-id="ext" group-title="Channels",PATO AVENTURAS 24/7
-http://cdn.miip.tv:8080/canada/123456/70
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY PRINCESS
-http://cdn.miip.tv:8080/canada/123456/71
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 4 | MX
-http://cdn.miip.tv:8080/canada/123456/72
-#EXTINF:0 tvg-id="ext" group-title="Channels",NIVUE CENTER PREMIER
-http://cdn.miip.tv:8080/canada/123456/73
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA NAVIDAD
-http://cdn.miip.tv:8080/canada/123456/74
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 11 | MX
-http://cdn.miip.tv:8080/canada/123456/75
-#EXTINF:0 tvg-id="ext" group-title="Channels",MOVIE COMEDIA
-http://cdn.miip.tv:8080/canada/123456/76
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 5 | MX
-http://cdn.miip.tv:8080/canada/123456/77
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY LIVE ACTION
-http://cdn.miip.tv:8080/canada/123456/78
-#EXTINF:0 tvg-id="ext" group-title="Channels",SCOOBY DOO 24/7
-http://cdn.miip.tv:8080/canada/123456/79
-#EXTINF:0 tvg-id="ext" group-title="Channels",LATIN SPORT AMERICA
-http://cdn.miip.tv:8080/canada/123456/80
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 6 | MX
-http://cdn.miip.tv:8080/canada/123456/81
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Channels",El Gourmet
-http://cdn.miip.tv:8080/canada/123456/82
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 9 | MX
-http://cdn.miip.tv:8080/canada/123456/84
-#EXTINF:0 tvg-id="ext" group-title="Channels",Foro tv | MX
-http://cdn.miip.tv:8080/canada/123456/85
-#EXTINF:0 tvg-id="ext" group-title="Channels",Televisa Bajo | MX
-http://cdn.miip.tv:8080/canada/123456/86
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telever | MX
-http://cdn.miip.tv:8080/canada/123456/87
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX ACTION
-http://cdn.miip.tv:8080/canada/123456/88
-#EXTINF:0 tvg-id="ext" group-title="Channels",Adn 40 | MX
-http://cdn.miip.tv:8080/canada/123456/89
-#EXTINF:0 tvg-id="ext" group-title="Channels",Formula Noticias | MX
-http://cdn.miip.tv:8080/canada/123456/90
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRILLERMAX
-http://cdn.miip.tv:8080/canada/123456/91
-#EXTINF:0 tvg-id="ext" group-title="Channels",Las Estrellas | MX
-http://cdn.miip.tv:8080/canada/123456/92
-#EXTINF:0 tvg-id="ext" group-title="Channels",Milenio Tv | MX
-http://cdn.miip.tv:8080/canada/123456/93
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tve | MX
-http://cdn.miip.tv:8080/canada/123456/94
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tooncast | MX
-http://cdn.miip.tv:8080/canada/123456/95
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nicktoons | MX
-http://cdn.miip.tv:8080/canada/123456/96
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO ZONE ESPANOL
-http://cdn.miip.tv:8080/canada/123456/97
-#EXTINF:0 tvg-id="EncoreAction.us" group-title="Channels",ENCORE ACTION
-http://cdn.miip.tv:8080/canada/123456/98
-#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Channels",ESTRELLA TV
-http://cdn.miip.tv:8080/canada/123456/99
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telenovelas | MX
-http://cdn.miip.tv:8080/canada/123456/100
-#EXTINF:0 tvg-id="StarzHDWest.us" group-title="Channels",STARZ WEST
-http://cdn.miip.tv:8080/canada/123456/101
-#EXTINF:0 tvg-id="ext" group-title="Channels",MORE MAX
-http://cdn.miip.tv:8080/canada/123456/102
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZOL 106-5 RD
-http://cdn.miip.tv:8080/canada/123456/513
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELERADIO AMERICA CANAL 45 RD
-http://cdn.miip.tv:8080/canada/123456/514
-#EXTINF:0 tvg-id="ext" group-title="Channels",Z 101 RD
-http://cdn.miip.tv:8080/canada/123456/515
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVISION BOSTON
-http://cdn.miip.tv:8080/canada/123456/516
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO LATINO ALT
-http://cdn.miip.tv:8080/canada/123456/517
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mas Chicas | MX
-http://cdn.miip.tv:8080/canada/123456/107
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hola TV | MX
-http://cdn.miip.tv:8080/canada/123456/108
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nick 2 | MX
-http://cdn.miip.tv:8080/canada/123456/109
-#EXTINF:0 tvg-id="ext" group-title="Channels",Food Network | MX
-http://cdn.miip.tv:8080/canada/123456/110
-#EXTINF:0 tvg-id="ext" group-title="Channels",Distrito Comedia | MX
-http://cdn.miip.tv:8080/canada/123456/111
-#EXTINF:0 tvg-id="ext" group-title="Channels",Glitz | MX
-http://cdn.miip.tv:8080/canada/123456/112
-#EXTINF:0 tvg-id="ext" group-title="Channels",Garage Tv | MX
-http://cdn.miip.tv:8080/canada/123456/113
-#EXTINF:0 tvg-id="ext" group-title="Channels",Film&art | MX
-http://cdn.miip.tv:8080/canada/123456/115
-#EXTINF:0 tvg-id="ext" group-title="Channels",Golden | MX
-http://cdn.miip.tv:8080/canada/123456/116
-#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Edge | MX
-http://cdn.miip.tv:8080/canada/123456/117
-#EXTINF:0 tvg-id="ext" group-title="Channels",Golden Plus | MX
-http://cdn.miip.tv:8080/canada/123456/118
-#EXTINF:0 tvg-id="SundanceChannel.gr" group-title="Channels",Sundance
-http://cdn.miip.tv:8080/canada/123456/120
-#EXTINF:0 tvg-id="ext" group-title="Channels",Animal Planet | MX
-http://cdn.miip.tv:8080/canada/123456/121
-#EXTINF:0 tvg-id="ext" group-title="Channels",ID | MX
-http://cdn.miip.tv:8080/canada/123456/122
-#EXTINF:0 tvg-id="ext" group-title="Channels",History | MX
-http://cdn.miip.tv:8080/canada/123456/123
-#EXTINF:0 tvg-id="ext" group-title="Channels",H2 | MX
-http://cdn.miip.tv:8080/canada/123456/124
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tlc | MX
-http://cdn.miip.tv:8080/canada/123456/125
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT SOUTHWEST
-http://cdn.miip.tv:8080/canada/123456/126
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nat Geo Wild | MX
-http://cdn.miip.tv:8080/canada/123456/127
-#EXTINF:0 tvg-id="WAPAAmerica.us" group-title="Channels",WAPA AMERICA
-http://cdn.miip.tv:8080/canada/123456/128
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nat Geo | MX
-http://cdn.miip.tv:8080/canada/123456/129
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aym Sport
-http://cdn.miip.tv:8080/canada/123456/130
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN
-http://cdn.miip.tv:8080/canada/123456/131
-#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Channels",Fox Action
-http://cdn.miip.tv:8080/canada/123456/132
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo | MX
-http://cdn.miip.tv:8080/canada/123456/133
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo 2 | MX
-http://cdn.miip.tv:8080/canada/123456/134
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo Family | MX
-http://cdn.miip.tv:8080/canada/123456/135
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo Plus | MX
-http://cdn.miip.tv:8080/canada/123456/136
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",Fox Movies
-http://cdn.miip.tv:8080/canada/123456/137
-#EXTINF:0 tvg-id="FoxSerie.de" group-title="Channels",Fox series
-http://cdn.miip.tv:8080/canada/123456/138
-#EXTINF:0 tvg-id="fox-life" group-title="Channels",Fox Life
-http://cdn.miip.tv:8080/canada/123456/139
-#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Channels",Fox Cinema
-http://cdn.miip.tv:8080/canada/123456/140
-#EXTINF:0 tvg-id="fox-crime" group-title="Channels",Fox
-http://cdn.miip.tv:8080/canada/123456/141
-#EXTINF:0 tvg-id="FoxFamilyW.mx" group-title="Channels",Fox Family
-http://cdn.miip.tv:8080/canada/123456/142
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Clasic
-http://cdn.miip.tv:8080/canada/123456/143
-#EXTINF:0 tvg-id="ext" group-title="Channels",Adrenalina
-http://cdn.miip.tv:8080/canada/123456/144
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sport 1 | MX
-http://cdn.miip.tv:8080/canada/123456/145
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sport 2 | MX
-http://cdn.miip.tv:8080/canada/123456/146
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sport 3 | MX
-http://cdn.miip.tv:8080/canada/123456/147
-#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",Axn
-http://cdn.miip.tv:8080/canada/123456/148
-#EXTINF:0 tvg-id="Pasiones.us" group-title="Channels",Pasiones
-http://cdn.miip.tv:8080/canada/123456/149
-#EXTINF:0 tvg-id="HustlerHD.ero" group-title="Channels",Hustler HD
-http://cdn.miip.tv:8080/canada/123456/150
-#EXTINF:0 tvg-id="ext" group-title="Channels",Red Light
-http://cdn.miip.tv:8080/canada/123456/151
-#EXTINF:0 tvg-id="PrivateTV.ero" group-title="Channels",Private Tv
-http://cdn.miip.tv:8080/canada/123456/152
-#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel
-http://cdn.miip.tv:8080/canada/123456/153
-#EXTINF:0 tvg-id="Dorcel.ero" group-title="Channels",Dorcel xxx
-http://cdn.miip.tv:8080/canada/123456/154
-#EXTINF:0 tvg-id="ext" group-title="Channels",Vivired
-http://cdn.miip.tv:8080/canada/123456/155
-#EXTINF:0 tvg-id="ext" group-title="Channels",Stars xxx
-http://cdn.miip.tv:8080/canada/123456/156
-#EXTINF:0 tvg-id="ext" group-title="Channels",+23 | PAN
-http://cdn.miip.tv:8080/canada/123456/159
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEXTV | PAN
-http://cdn.miip.tv:8080/canada/123456/160
-#EXTINF:0 tvg-id="ext" group-title="Channels",RPCTV | PAN
-http://cdn.miip.tv:8080/canada/123456/162
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 4 | NIC
-http://cdn.miip.tv:8080/canada/123456/163
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 2 | NIC
-http://cdn.miip.tv:8080/canada/123456/164
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY TURBO LATINOS
-http://cdn.miip.tv:8080/canada/123456/165
-#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",DISCOVERY HOME & HEALTH
-http://cdn.miip.tv:8080/canada/123456/166
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",DISCOVERY KIDS
-http://cdn.miip.tv:8080/canada/123456/167
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY CHANNEL LATINO
-http://cdn.miip.tv:8080/canada/123456/168
-#EXTINF:0 tvg-id="disney-xd-blt" group-title="Channels",DISNEY XD
-http://cdn.miip.tv:8080/canada/123456/169
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIO UNIVERSAL
-http://cdn.miip.tv:8080/canada/123456/170
-#EXTINF:0 tvg-id="ext" group-title="Channels",ID INVESTIGACION
-http://cdn.miip.tv:8080/canada/123456/171
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO. 2 | PR
-http://cdn.miip.tv:8080/canada/123456/174
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 10 | NIC
-http://cdn.miip.tv:8080/canada/123456/175
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 8 | NIC
-http://cdn.miip.tv:8080/canada/123456/176
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL  14 | NIC
-http://cdn.miip.tv:8080/canada/123456/177
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 6 | NIC
-http://cdn.miip.tv:8080/canada/123456/178
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 13 | NIC
-http://cdn.miip.tv:8080/canada/123456/179
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 12 | NIC
-http://cdn.miip.tv:8080/canada/123456/180
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 21 | ESA
-http://cdn.miip.tv:8080/canada/123456/181
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 2 | ESA
-http://cdn.miip.tv:8080/canada/123456/182
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 12 | ESA
-http://cdn.miip.tv:8080/canada/123456/184
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 6 | ESA
-http://cdn.miip.tv:8080/canada/123456/185
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 13 SINART | CR
-http://cdn.miip.tv:8080/canada/123456/187
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 29 VM LATINO | CR
-http://cdn.miip.tv:8080/canada/123456/188
-#EXTINF:0 tvg-id="ext" group-title="Channels",erox
-http://cdn.miip.tv:8080/canada/123456/189
-#EXTINF:0 tvg-id="ext" group-title="Channels",erox XXX
-http://cdn.miip.tv:8080/canada/123456/192
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANTENA 7 RD
-http://cdn.miip.tv:8080/canada/123456/193
-#EXTINF:0 tvg-id="PenthouseGold.ero" group-title="Channels",Penthouse Gold
-http://cdn.miip.tv:8080/canada/123456/194
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDN 2 RD
-http://cdn.miip.tv:8080/canada/123456/195
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 | HON
-http://cdn.miip.tv:8080/canada/123456/196
-#EXTINF:0 tvg-id="PenthouseQuickies.ero" group-title="Channels",Penthouse Quickies
-http://cdn.miip.tv:8080/canada/123456/197
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGITAL 15 RD
-http://cdn.miip.tv:8080/canada/123456/198
-#EXTINF:0 tvg-id="ext" group-title="Channels",Penthouse Pasion
-http://cdn.miip.tv:8080/canada/123456/199
-#EXTINF:0 tvg-id="ext" group-title="Channels",HCH | HON
-http://cdn.miip.tv:8080/canada/123456/200
-#EXTINF:0 tvg-id="SuperOne.ero" group-title="Channels",Super One
-http://cdn.miip.tv:8080/canada/123456/201
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCN NOVELA | COL
-http://cdn.miip.tv:8080/canada/123456/202
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEANTILLAS RD
-http://cdn.miip.tv:8080/canada/123456/203
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECENTRO RD
-http://cdn.miip.tv:8080/canada/123456/204
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELESISTEMA C11 RD
-http://cdn.miip.tv:8080/canada/123456/205
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEUNION RD
-http://cdn.miip.tv:8080/canada/123456/206
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEUNIVERSO RD
-http://cdn.miip.tv:8080/canada/123456/207
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMICRO RD
-http://cdn.miip.tv:8080/canada/123456/208
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECADENA | HON
-http://cdn.miip.tv:8080/canada/123456/209
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDN 37 RD
-http://cdn.miip.tv:8080/canada/123456/211
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 5 | HON
-http://cdn.miip.tv:8080/canada/123456/212
-#EXTINF:0 tvg-id="ext" group-title="Channels",Argentina A 24 | ARG
-http://cdn.miip.tv:8080/canada/123456/448
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY MUNDO
-http://cdn.miip.tv:8080/canada/123456/450
-#EXTINF:0 tvg-id="ext" group-title="Channels",America Tv | ARG
-http://cdn.miip.tv:8080/canada/123456/451
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL USA
-http://cdn.miip.tv:8080/canada/123456/452
-#EXTINF:0 tvg-id="ext" group-title="Channels",GolTV | USA
-http://cdn.miip.tv:8080/canada/123456/453
-#EXTINF:0 tvg-id="ext" group-title="Channels",C5n | ARG
-http://cdn.miip.tv:8080/canada/123456/454
-#EXTINF:0 tvg-id="ext" group-title="Channels",COURT
-http://cdn.miip.tv:8080/canada/123456/455
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 26 | Arg
-http://cdn.miip.tv:8080/canada/123456/456
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 4 REPRETEL | CR
-http://cdn.miip.tv:8080/canada/123456/457
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cn 23 | Arg
-http://cdn.miip.tv:8080/canada/123456/458
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL UNO | ECU
-http://cdn.miip.tv:8080/canada/123456/459
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cronica Tv | Arg
-http://cdn.miip.tv:8080/canada/123456/460
-#EXTINF:0 tvg-id="ext" group-title="Channels",ECUAVISA | ECU
-http://cdn.miip.tv:8080/canada/123456/461
-#EXTINF:0 tvg-id="ext" group-title="Channels",Deport tv | Arg
-http://cdn.miip.tv:8080/canada/123456/462
-#EXTINF:0 tvg-id="ext" group-title="Channels",El Nueve | arg
-http://cdn.miip.tv:8080/canada/123456/463
-#EXTINF:0 tvg-id="ext" group-title="Channels",GAMA TV | ECU
-http://cdn.miip.tv:8080/canada/123456/464
-#EXTINF:0 tvg-id="ext" group-title="Channels",El Trece | Arg
-http://cdn.miip.tv:8080/canada/123456/465
-#EXTINF:0 tvg-id="ext" group-title="Channels",GolTV | Sur America
-http://cdn.miip.tv:8080/canada/123456/466
-#EXTINF:0 tvg-id="ext" group-title="Channels",Telefe | Arg
-http://cdn.miip.tv:8080/canada/123456/467
-#EXTINF:0 tvg-id="ext" group-title="Channels",Todo Noticias | Arg
-http://cdn.miip.tv:8080/canada/123456/468
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTS | ECU
-http://cdn.miip.tv:8080/canada/123456/469
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Publica | Arg
-http://cdn.miip.tv:8080/canada/123456/470
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Cine
-http://cdn.miip.tv:8080/canada/123456/471
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELE AMAZONAS | ECU
-http://cdn.miip.tv:8080/canada/123456/472
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Film
-http://cdn.miip.tv:8080/canada/123456/473
-#EXTINF:0 tvg-id="ext" group-title="Channels",TC | ECU
-http://cdn.miip.tv:8080/canada/123456/474
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TROPICALES
-http://cdn.miip.tv:8080/canada/123456/475
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Clasico
-http://cdn.miip.tv:8080/canada/123456/476
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC URBANA
-http://cdn.miip.tv:8080/canada/123456/477
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Entertainment
-http://cdn.miip.tv:8080/canada/123456/478
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO 49 TAMPA
-http://cdn.miip.tv:8080/canada/123456/479
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Familia
-http://cdn.miip.tv:8080/canada/123456/480
-#EXTINF:0 tvg-id="ext" group-title="Channels",GALAVISION MIAMI
-http://cdn.miip.tv:8080/canada/123456/481
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Macho
-http://cdn.miip.tv:8080/canada/123456/482
-#EXTINF:0 tvg-id="ext" group-title="Channels",GALAVISION NY
-http://cdn.miip.tv:8080/canada/123456/483
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Luna
-http://cdn.miip.tv:8080/canada/123456/484
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ultra Mex
-http://cdn.miip.tv:8080/canada/123456/487
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo Mundo Latino
-http://cdn.miip.tv:8080/canada/123456/488
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo Xtreme Latino
-http://cdn.miip.tv:8080/canada/123456/489
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hbo Pop Latino
-http://cdn.miip.tv:8080/canada/123456/490
-#EXTINF:0 tvg-id="ext" group-title="Channels",W Fish
-http://cdn.miip.tv:8080/canada/123456/491
-#EXTINF:0 tvg-id="TNT.us" group-title="Channels",Tnt Usa
-http://cdn.miip.tv:8080/canada/123456/493
-#EXTINF:0 tvg-id="HGTV.us" group-title="Channels",Hgtv Usa
-http://cdn.miip.tv:8080/canada/123456/494
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 67 RD
-http://cdn.miip.tv:8080/canada/123456/495
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 4 RD
-http://cdn.miip.tv:8080/canada/123456/496
-#EXTINF:0 tvg-id="ext" group-title="Channels",Diy Usa
-http://cdn.miip.tv:8080/canada/123456/497
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 25 RD
-http://cdn.miip.tv:8080/canada/123456/498
-#EXTINF:0 tvg-id="FoodNetwork.us" group-title="Channels",Food Network Usa
-http://cdn.miip.tv:8080/canada/123456/499
-#EXTINF:0 tvg-id="ext" group-title="Channels",ID INVETIGATION USA
-http://cdn.miip.tv:8080/canada/123456/500
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARIVISION RD
-http://cdn.miip.tv:8080/canada/123456/501
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hallmark Movie Mistery
-http://cdn.miip.tv:8080/canada/123456/502
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEVISION CANAL 19 RD
-http://cdn.miip.tv:8080/canada/123456/503
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mtv Usa
-http://cdn.miip.tv:8080/canada/123456/504
-#EXTINF:0 tvg-id="ext" group-title="Channels",MICROVISION CANAL 10 RD
-http://cdn.miip.tv:8080/canada/123456/505
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORBITV RD
-http://cdn.miip.tv:8080/canada/123456/506
-#EXTINF:0 tvg-id="ext" group-title="Channels",RNN CANAL 27 RD
-http://cdn.miip.tv:8080/canada/123456/507
-#EXTINF:0 tvg-id="ext" group-title="Channels",ROMANA TV RD
-http://cdn.miip.tv:8080/canada/123456/508
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECANAL RD
-http://cdn.miip.tv:8080/canada/123456/509
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECENTRO CANAL 13 RD
-http://cdn.miip.tv:8080/canada/123456/510
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEFUTURO CANAL 23 RD
-http://cdn.miip.tv:8080/canada/123456/511
-#EXTINF:0 tvg-id="ext" group-title="Channels",E ! LATINO
-http://cdn.miip.tv:8080/canada/123456/3654
-#EXTINF:0 tvg-id="FX.mx" group-title="Channels",FX LATINO
-http://cdn.miip.tv:8080/canada/123456/3655
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC LATINO
-http://cdn.miip.tv:8080/canada/123456/3656
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT LATINO
-http://cdn.miip.tv:8080/canada/123456/3657
-#EXTINF:0 tvg-id="E.ar" group-title="Channels",E !
-http://cdn.miip.tv:8080/canada/123456/3658
-#EXTINF:0 tvg-id="ext" group-title="Channels",JAZMIN TV
-http://cdn.miip.tv:8080/canada/123456/3671
-#EXTINF:0 tvg-id="USANetwork.us" group-title="Channels",USA NETWORK
-http://cdn.miip.tv:8080/canada/123456/3672
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD TV
-http://cdn.miip.tv:8080/canada/123456/3673
-#EXTINF:0 tvg-id="ext" group-title="Channels",THIS OLD HOUSE
-http://cdn.miip.tv:8080/canada/123456/3676
-#EXTINF:0 tvg-id="ext" group-title="Channels",A&E LATINO
-http://cdn.miip.tv:8080/canada/123456/3678
-#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY LATINO
-http://cdn.miip.tv:8080/canada/123456/3679
-#EXTINF:0 tvg-id="ext" group-title="Channels",WE
-http://cdn.miip.tv:8080/canada/123456/3680
-#EXTINF:0 tvg-id="ext" group-title="Channels",TBS ALT
-http://cdn.miip.tv:8080/canada/123456/3681
-#EXTINF:0 tvg-id="ESPNU.us" group-title="Channels",ESPN U
-http://cdn.miip.tv:8080/canada/123456/3683
-#EXTINF:0 tvg-id="ESPNews.us" group-title="Channels",ESPN NEWS
-http://cdn.miip.tv:8080/canada/123456/3684
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB ALT
-http://cdn.miip.tv:8080/canada/123456/3685
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV ALT
-http://cdn.miip.tv:8080/canada/123456/3686
-#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Channels",NHL NETWORK
-http://cdn.miip.tv:8080/canada/123456/3687
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY JR LATINO
-http://cdn.miip.tv:8080/canada/123456/3688
-#EXTINF:0 tvg-id="ext" group-title="Channels",NICKELODON LATINO
-http://cdn.miip.tv:8080/canada/123456/3692
-#EXTINF:0 tvg-id="ext" group-title="Channels",NICK MOVIES
-http://cdn.miip.tv:8080/canada/123456/3693
-#EXTINF:0 tvg-id="ext" group-title="Channels",NICK GAMES
-http://cdn.miip.tv:8080/canada/123456/3694
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
-http://cdn.miip.tv:8080/canada/123456/3695
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK LATINO
-http://cdn.miip.tv:8080/canada/123456/3696
-#EXTINF:0 tvg-id="ext" group-title="Channels",CLASSIC TOONS
-http://cdn.miip.tv:8080/canada/123456/3697
-#EXTINF:0 tvg-id="ext" group-title="Channels",AFTER SCHOOL
-http://cdn.miip.tv:8080/canada/123456/3698
-#EXTINF:0 tvg-id="Sprout.us" group-title="Channels",SPROUT
-http://cdn.miip.tv:8080/canada/123456/3699
-#EXTINF:0 tvg-id="ext" group-title="Channels",CRANKYANKERS
-http://cdn.miip.tv:8080/canada/123456/3700
-#EXTINF:0 tvg-id="ext" group-title="Channels",TOTALLY TURTLES
-http://cdn.miip.tv:8080/canada/123456/3701
-#EXTINF:0 tvg-id="YESHD.us" group-title="Channels",YES NETWORK
-http://cdn.miip.tv:8080/canada/123456/3702
-#EXTINF:0 tvg-id="ext" group-title="Channels",PBS KIDS
-http://cdn.miip.tv:8080/canada/123456/3703
-#EXTINF:0 tvg-id="baby-tv" group-title="Channels",BABY TV
-http://cdn.miip.tv:8080/canada/123456/3705
-#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Channels",DISCOVERY FAMILY
-http://cdn.miip.tv:8080/canada/123456/3706
-#EXTINF:0 tvg-id="ext" group-title="Channels",MOTORTREND
-http://cdn.miip.tv:8080/canada/123456/3707
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMCAST WASHIGTON
-http://cdn.miip.tv:8080/canada/123456/3710
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMCAST BOSTON
-http://cdn.miip.tv:8080/canada/123456/3711
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
-http://cdn.miip.tv:8080/canada/123456/3712
-#EXTINF:0 tvg-id="DiscoveryLife.pl" group-title="Channels",DISCOVERY LIFE
-http://cdn.miip.tv:8080/canada/123456/3713
-#EXTINF:0 tvg-id="ext" group-title="Channels",HALLMARK DRAMA
-http://cdn.miip.tv:8080/canada/123456/3714
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCIA USA
-http://cdn.miip.tv:8080/canada/123456/3715
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX LATINO
-http://cdn.miip.tv:8080/canada/123456/3716
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENCORE WESTERN
-http://cdn.miip.tv:8080/canada/123456/3718
-#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Channels",STARZ COMEDY
-http://cdn.miip.tv:8080/canada/123456/3719
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Liga de Campiones 2 | ES
-http://cdn.miip.tv:8080/canada/123456/3726
-#EXTINF:0 tvg-id="ext" group-title="Channels",RED BULL TV
-http://cdn.miip.tv:8080/canada/123456/3727
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME FAMILY ZONE
-http://cdn.miip.tv:8080/canada/123456/3728
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NATGEO WILD
-http://cdn.miip.tv:8080/canada/123456/3730
-#EXTINF:0 tvg-id="ext" group-title="Channels",AHC
-http://cdn.miip.tv:8080/canada/123456/3731
-#EXTINF:0 tvg-id="DestinationAmerica.us" group-title="Channels",DESTINATION AMERICA
-http://cdn.miip.tv:8080/canada/123456/3733
-#EXTINF:0 tvg-id="ext" group-title="Channels",KIDS TV
-http://cdn.miip.tv:8080/canada/123456/3734
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAC 12 NETWORKK
-http://cdn.miip.tv:8080/canada/123456/3735
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAC 12 BY AREA
-http://cdn.miip.tv:8080/canada/123456/3736
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAC 12 OREGON
-http://cdn.miip.tv:8080/canada/123456/3737
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAC 12 ARIZONA
-http://cdn.miip.tv:8080/canada/123456/3738
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAC 12 MOUNTAIN
-http://cdn.miip.tv:8080/canada/123456/3739
-#EXTINF:0 tvg-id="ext" group-title="Channels",PAC 12 LOS ANGELES
-http://cdn.miip.tv:8080/canada/123456/3740
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORTS
-http://cdn.miip.tv:8080/canada/123456/3741
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",BT SPORT 1
-http://cdn.miip.tv:8080/canada/123456/3742
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",BT SPORT 2
-http://cdn.miip.tv:8080/canada/123456/3743
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",BT SPORT 3
-http://cdn.miip.tv:8080/canada/123456/3744
-#EXTINF:0 tvg-id="ext" group-title="Channels",SNY
-http://cdn.miip.tv:8080/canada/123456/3745
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY CHANNEL LATINO
-http://cdn.miip.tv:8080/canada/123456/3746
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL PLANET LATINO
-http://cdn.miip.tv:8080/canada/123456/3747
-#EXTINF:0 tvg-id="history-rus" group-title="Channels",HISTORY
-http://cdn.miip.tv:8080/canada/123456/3749
-#EXTINF:0 tvg-id="ext" group-title="Channels",BABY TV ESPANOL
-http://cdn.miip.tv:8080/canada/123456/3750
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBS ORLANDO
-http://cdn.miip.tv:8080/canada/123456/3780
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBC ORLANDO
-http://cdn.miip.tv:8080/canada/123456/3781
-#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",ABC NY
-http://cdn.miip.tv:8080/canada/123456/3782
-#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="Channels",CBS NY
-http://cdn.miip.tv:8080/canada/123456/3783
-#EXTINF:0 tvg-id="ext" group-title="Channels",ION TV NY
-http://cdn.miip.tv:8080/canada/123456/3784
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO BOSTON
-http://cdn.miip.tv:8080/canada/123456/3785
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOSTON 7 NEWS
-http://cdn.miip.tv:8080/canada/123456/3786
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBC BOSTON
-http://cdn.miip.tv:8080/canada/123456/3787
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX 25 BOSTON
-http://cdn.miip.tv:8080/canada/123456/3788
-#EXTINF:0 tvg-id="ext" group-title="Channels",MY 38 BOSTON
-http://cdn.miip.tv:8080/canada/123456/3789
-#EXTINF:0 tvg-id="ext" group-title="Channels",DALLAS CHEERLADER COWBOYS
-http://cdn.miip.tv:8080/canada/123456/3791
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
-http://cdn.miip.tv:8080/canada/123456/3792
-#EXTINF:0 tvg-id="CMT.us" group-title="Channels",CMT
-http://cdn.miip.tv:8080/canada/123456/3793
-#EXTINF:0 tvg-id="ext" group-title="Channels",CMT WESTERN
-http://cdn.miip.tv:8080/canada/123456/3794
-#EXTINF:0 tvg-id="ext" group-title="Channels",COME TV
-http://cdn.miip.tv:8080/canada/123456/3795
-#EXTINF:0 tvg-id="SmithsonianChannel.uk" group-title="Channels",SMITHSONIAN  CHANNEL
-http://cdn.miip.tv:8080/canada/123456/3796
-#EXTINF:0 tvg-id="VICELAND.uk" group-title="Channels",VICELAND
-http://cdn.miip.tv:8080/canada/123456/3800
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV LAND DRAMA
-http://cdn.miip.tv:8080/canada/123456/3801
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV LAND SITCOMS
-http://cdn.miip.tv:8080/canada/123456/3802
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOS PICAPIEDRAS
-http://cdn.miip.tv:8080/canada/123456/3803
-#EXTINF:0 tvg-id="ext" group-title="Channels",CHESPIRITO
-http://cdn.miip.tv:8080/canada/123456/3805
-#EXTINF:0 tvg-id="ext" group-title="Channels",EL CHAVO DEL 8
-http://cdn.miip.tv:8080/canada/123456/3806
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOS SIMPSONS
-http://cdn.miip.tv:8080/canada/123456/3807
-#EXTINF:0 tvg-id="ext" group-title="Channels",LA TROPA GOFFY
-http://cdn.miip.tv:8080/canada/123456/3808
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOS 3 CHIFLADOS
-http://cdn.miip.tv:8080/canada/123456/3809
-#EXTINF:0 tvg-id="ext" group-title="Channels",ANTIESTRES
-http://cdn.miip.tv:8080/canada/123456/3810
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL STAND UP
-http://cdn.miip.tv:8080/canada/123456/3812
-#EXTINF:0 tvg-id="ext" group-title="Channels",REELZ CHANNEL
-http://cdn.miip.tv:8080/canada/123456/3813
-#EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
-http://cdn.miip.tv:8080/canada/123456/3814
-#EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",AXS TV
-http://cdn.miip.tv:8080/canada/123456/3815
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 1
-http://cdn.miip.tv:8080/canada/123456/3819
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 2
-http://cdn.miip.tv:8080/canada/123456/3820
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 3
-http://cdn.miip.tv:8080/canada/123456/3821
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 4
-http://cdn.miip.tv:8080/canada/123456/3822
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 5
-http://cdn.miip.tv:8080/canada/123456/3823
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 6
-http://cdn.miip.tv:8080/canada/123456/3824
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 7
-http://cdn.miip.tv:8080/canada/123456/3826
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 8
-http://cdn.miip.tv:8080/canada/123456/3827
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 9
-http://cdn.miip.tv:8080/canada/123456/3828
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 10
-http://cdn.miip.tv:8080/canada/123456/3829
-#EXTINF:0 tvg-id="ext" group-title="Channels",GolTV Español | USA
-http://cdn.miip.tv:8080/canada/123456/3830
-#EXTINF:0 tvg-id="ext" group-title="Channels",Stadium 1
-http://cdn.miip.tv:8080/canada/123456/3831
-#EXTINF:0 tvg-id="ext" group-title="Channels",Stadium 2
-http://cdn.miip.tv:8080/canada/123456/3832
-#EXTINF:0 tvg-id="ext" group-title="Channels",Stadium 3
-http://cdn.miip.tv:8080/canada/123456/3833
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN Xtra 11
-http://cdn.miip.tv:8080/canada/123456/3834
-#EXTINF:0 tvg-id="ext" group-title="Channels",TRUTV USA
-http://cdn.miip.tv:8080/canada/123456/4087
-#EXTINF:0 tvg-id="EncoreBlack.us" group-title="Channels",ENCORE BLACK
-http://cdn.miip.tv:8080/canada/123456/4088
-#EXTINF:0 tvg-id="EncoreClassic.us" group-title="Channels",ENCORE CLASSIC
-http://cdn.miip.tv:8080/canada/123456/4089
-#EXTINF:0 tvg-id="ext" group-title="Channels",ENCORE SUSPENSO
-http://cdn.miip.tv:8080/canada/123456/4090
-#EXTINF:0 tvg-id="EncoreWest.us" group-title="Channels",ENCORE WEST
-http://cdn.miip.tv:8080/canada/123456/4091
-#EXTINF:0 tvg-id="MASN.us" group-title="Channels",MASN
-http://cdn.miip.tv:8080/canada/123456/4092
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBSN NY
-http://cdn.miip.tv:8080/canada/123456/3583
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBS MIAMI
-http://cdn.miip.tv:8080/canada/123456/3605
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN ACC
-http://cdn.miip.tv:8080/canada/123456/4116
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN SECS
-http://cdn.miip.tv:8080/canada/123456/4118
-#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Channels",ESPN DEPORTES
-http://cdn.miip.tv:8080/canada/123456/4121
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN PLUS LATINO
-http://cdn.miip.tv:8080/canada/123456/3627
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN LATINO
-http://cdn.miip.tv:8080/canada/123456/3624
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 LATINO
-http://cdn.miip.tv:8080/canada/123456/3625
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 LATINO
-http://cdn.miip.tv:8080/canada/123456/3628
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV NOVELAS
-http://cdn.miip.tv:8080/canada/123456/4242
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO COMEDY CENTRAL
-http://cdn.miip.tv:8080/canada/123456/3811
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO DOCTOR WHO CLASSIC
-http://cdn.miip.tv:8080/canada/123456/3799
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO NOSEY
-http://cdn.miip.tv:8080/canada/123456/3798
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO WIPEOUT
-http://cdn.miip.tv:8080/canada/123456/3797
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TRAVEL
-http://cdn.miip.tv:8080/canada/123456/3732
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CARS 2
-http://cdn.miip.tv:8080/canada/123456/3709
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CARS
-http://cdn.miip.tv:8080/canada/123456/3708
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO NICK JR LATINO
-http://cdn.miip.tv:8080/canada/123456/3689
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV COCINA
-http://cdn.miip.tv:8080/canada/123456/3674
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO NICKELODON  LATINO
-http://cdn.miip.tv:8080/canada/123456/3650
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV MUNDO
-http://cdn.miip.tv:8080/canada/123456/449
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pluto Wedding
-http://cdn.miip.tv:8080/canada/123456/442
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pluto Tv Winter
-http://cdn.miip.tv:8080/canada/123456/440
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV SPORTS
-http://cdn.miip.tv:8080/canada/123456/436
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO PARAMOUNT MOVIE
-http://cdn.miip.tv:8080/canada/123456/441
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV SURF
-http://cdn.miip.tv:8080/canada/123456/434
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO NATURALEZA
-http://cdn.miip.tv:8080/canada/123456/430
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO PURSUIT
-http://cdn.miip.tv:8080/canada/123456/428
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV MOVIES
-http://cdn.miip.tv:8080/canada/123456/426
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV HORROR
-http://cdn.miip.tv:8080/canada/123456/425
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO BLACK CINEMA
-http://cdn.miip.tv:8080/canada/123456/424
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV DRAMA
-http://cdn.miip.tv:8080/canada/123456/423
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV TRILLER
-http://cdn.miip.tv:8080/canada/123456/422
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV PELICULAS
-http://cdn.miip.tv:8080/canada/123456/421
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CINE TERROR
-http://cdn.miip.tv:8080/canada/123456/419
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CINE ESTELAR
-http://cdn.miip.tv:8080/canada/123456/420
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV CINE
-http://cdn.miip.tv:8080/canada/123456/418
-#EXTINF:0 tvg-id="ext" group-title="Channels",PLUTO TV REALITY
-http://cdn.miip.tv:8080/canada/123456/417
-#EXTINF:0 tvg-id="ext" group-title="Channels",BET PLUTO
-http://cdn.miip.tv:8080/canada/123456/399
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV PLUTO
-http://cdn.miip.tv:8080/canada/123456/376
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV LATINO PLUTO
-http://cdn.miip.tv:8080/canada/123456/375
-#EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT PLUTO
-http://cdn.miip.tv:8080/canada/123456/370
-#EXTINF:0 tvg-id="ext" group-title="Channels",OUTSIDE
-http://cdn.miip.tv:8080/canada/123456/4325
-#EXTINF:0 tvg-id="ext" group-title="Channels",FANTASY SPORTS
-http://cdn.miip.tv:8080/canada/123456/4324
-#EXTINF:0 tvg-id="ext" group-title="Channels",OLYMPIC CHANNEL
-http://cdn.miip.tv:8080/canada/123456/4322
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAPITAL | PERU
-http://cdn.miip.tv:8080/canada/123456/4253
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMERICA | PERU
-http://cdn.miip.tv:8080/canada/123456/4252
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL PERU | PERU
-http://cdn.miip.tv:8080/canada/123456/4251
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL MEDELLIN | COL
-http://cdn.miip.tv:8080/canada/123456/4249
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIA TV | COL
-http://cdn.miip.tv:8080/canada/123456/4248
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECARIBE | COL
-http://cdn.miip.tv:8080/canada/123456/4247
-#EXTINF:0 tvg-id="ext" group-title="Channels",CITY TV | COL
-http://cdn.miip.tv:8080/canada/123456/4250
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECAFE | COL
-http://cdn.miip.tv:8080/canada/123456/4246
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEENVIGADO | COL
-http://cdn.miip.tv:8080/canada/123456/4245
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEANTOQUIA COLOMBIA
-http://cdn.miip.tv:8080/canada/123456/4244
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEPACIFICO | COL
-http://cdn.miip.tv:8080/canada/123456/4243
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Channels",TELENOVELAS
-http://cdn.miip.tv:8080/canada/123456/4241
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS
-http://cdn.miip.tv:8080/canada/123456/4240
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TYCSPORTS
-http://cdn.miip.tv:8080/canada/123456/4239
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT ARGENTINA
-http://cdn.miip.tv:8080/canada/123456/4238
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT  PLUS
-http://cdn.miip.tv:8080/canada/123456/4237
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT 2
-http://cdn.miip.tv:8080/canada/123456/4236
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIRECTV SPORT
-http://cdn.miip.tv:8080/canada/123456/4235
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT 3 SUR
-http://cdn.miip.tv:8080/canada/123456/4233
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT 2 SUR
-http://cdn.miip.tv:8080/canada/123456/4232
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT SUR
-http://cdn.miip.tv:8080/canada/123456/4231
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT ARGENTINA
-http://cdn.miip.tv:8080/canada/123456/4229
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT CHILE
-http://cdn.miip.tv:8080/canada/123456/4228
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT 3 COLOMBIA
-http://cdn.miip.tv:8080/canada/123456/4227
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT 2 ARGENTINA
-http://cdn.miip.tv:8080/canada/123456/4230
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT 2 COLOMBIA
-http://cdn.miip.tv:8080/canada/123456/4226
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT COLOMBIA
-http://cdn.miip.tv:8080/canada/123456/4225
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT PREMIUN
-http://cdn.miip.tv:8080/canada/123456/4224
-#EXTINF:0 tvg-id="ext" group-title="Channels",JUSTICE TV
-http://cdn.miip.tv:8080/canada/123456/4221
-#EXTINF:0 tvg-id="ext" group-title="Channels",SONY MOVIES CHANNEL
-http://cdn.miip.tv:8080/canada/123456/4219
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SONY LATINO
-http://cdn.miip.tv:8080/canada/123456/4218
-#EXTINF:0 tvg-id="UnivisionWest.us" group-title="Channels",UNIVISION WEST
-http://cdn.miip.tv:8080/canada/123456/4217
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVISION ESTE
-http://cdn.miip.tv:8080/canada/123456/4216
-#EXTINF:0 tvg-id="ext" group-title="Channels",ROOT SPORT NORWEST
-http://cdn.miip.tv:8080/canada/123456/4117
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",CBEEBIES
-http://cdn.miip.tv:8080/canada/123456/4119
-#EXTINF:0 tvg-id="NatGeoMundo.us" group-title="Channels",NATGEO MUNDO
-http://cdn.miip.tv:8080/canada/123456/4120
-#EXTINF:0 tvg-id="ext" group-title="Channels",AT&T SPORNET PITTSBURG
-http://cdn.miip.tv:8080/canada/123456/4122
-#EXTINF:0 tvg-id="ShowtimeW.us" group-title="Channels",SHOWTIME WEST
-http://cdn.miip.tv:8080/canada/123456/4123
-#EXTINF:0 tvg-id="ext" group-title="Channels",PIXL
-http://cdn.miip.tv:8080/canada/123456/4124
-#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Channels",BABY FIRST TV
-http://cdn.miip.tv:8080/canada/123456/4125
-#EXTINF:0 tvg-id="ext" group-title="Channels",NICK CENTRAL
-http://cdn.miip.tv:8080/canada/123456/4165
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC LATINO
-http://cdn.miip.tv:8080/canada/123456/3626
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG LATINO
-http://cdn.miip.tv:8080/canada/123456/3629
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO WEST
-http://cdn.miip.tv:8080/canada/123456/3630
-#EXTINF:0 tvg-id="ext" group-title="Channels",H2 LATINO
-http://cdn.miip.tv:8080/canada/123456/3631
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATGEO KIDS
-http://cdn.miip.tv:8080/canada/123456/3632
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO INT
-http://cdn.miip.tv:8080/canada/123456/3633
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIFETIME LATINO
-http://cdn.miip.tv:8080/canada/123456/3634
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC ALTERNATIVE
-http://cdn.miip.tv:8080/canada/123456/3635
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC HIP&HOP
-http://cdn.miip.tv:8080/canada/123456/3636
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC DANCE DM
-http://cdn.miip.tv:8080/canada/123456/3637
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC INDIE
-http://cdn.miip.tv:8080/canada/123456/3639
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC METAL
-http://cdn.miip.tv:8080/canada/123456/3640
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC POP COUNTRY
-http://cdn.miip.tv:8080/canada/123456/3642
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC POP HITS
-http://cdn.miip.tv:8080/canada/123456/3644
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC MEXICANA
-http://cdn.miip.tv:8080/canada/123456/3641
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC POP LATINO
-http://cdn.miip.tv:8080/canada/123456/3645
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC RAP
-http://cdn.miip.tv:8080/canada/123456/3646
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC 90 S
-http://cdn.miip.tv:8080/canada/123456/3649
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC KIDS ONLY
-http://cdn.miip.tv:8080/canada/123456/3651
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TODDLE JAMS
-http://cdn.miip.tv:8080/canada/123456/3653
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC ROCK
-http://cdn.miip.tv:8080/canada/123456/3647
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TEeN BEATS
-http://cdn.miip.tv:8080/canada/123456/3648
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TODAY COUNTRY
-http://cdn.miip.tv:8080/canada/123456/3652
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON
-http://cdn.miip.tv:8080/canada/123456/3552
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 2
-http://cdn.miip.tv:8080/canada/123456/3553
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 3
-http://cdn.miip.tv:8080/canada/123456/3554
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 4
-http://cdn.miip.tv:8080/canada/123456/3555
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 5
-http://cdn.miip.tv:8080/canada/123456/3557
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 6
-http://cdn.miip.tv:8080/canada/123456/3558
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 7
-http://cdn.miip.tv:8080/canada/123456/3559
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 8
-http://cdn.miip.tv:8080/canada/123456/3560
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 9
-http://cdn.miip.tv:8080/canada/123456/3561
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 10
-http://cdn.miip.tv:8080/canada/123456/3562
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 11
-http://cdn.miip.tv:8080/canada/123456/3563
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 12
-http://cdn.miip.tv:8080/canada/123456/3564
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 13
-http://cdn.miip.tv:8080/canada/123456/3565
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 14
-http://cdn.miip.tv:8080/canada/123456/3566
-#EXTINF:0 tvg-id="ext" group-title="Channels",MLB SEASSON 15
-http://cdn.miip.tv:8080/canada/123456/3567
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCN | COL
-http://cdn.miip.tv:8080/canada/123456/3569
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCN 2 | COL
-http://cdn.miip.tv:8080/canada/123456/3570
-#EXTINF:0 tvg-id="ext" group-title="Channels",WINSPORT | COL
-http://cdn.miip.tv:8080/canada/123456/3571
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: POCKET WATCH
-http://cdn.miip.tv:8080/canada/123456/6462
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: HOOPLA KIDZ
-http://cdn.miip.tv:8080/canada/123456/6461
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:MASHABLE
-http://cdn.miip.tv:8080/canada/123456/6414
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:FUTURISM
-http://cdn.miip.tv:8080/canada/123456/6413
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:POPULAR SCIENCE
-http://cdn.miip.tv:8080/canada/123456/6412
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:COMBAT WAR CHANNEL
-http://cdn.miip.tv:8080/canada/123456/6411
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:CNET
-http://cdn.miip.tv:8080/canada/123456/6410
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: WIRED
-http://cdn.miip.tv:8080/canada/123456/6409
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:CRIME TV
-http://cdn.miip.tv:8080/canada/123456/6408
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:DIVORCE DOURT
-http://cdn.miip.tv:8080/canada/123456/6407
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:OMG NETWORK
-http://cdn.miip.tv:8080/canada/123456/6406
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:NOSEY
-http://cdn.miip.tv:8080/canada/123456/6405
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: REAL NOSEY
-http://cdn.miip.tv:8080/canada/123456/6404
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: THE NEW YORKER
-http://cdn.miip.tv:8080/canada/123456/6403
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: BROADWAY CHANNEL
-http://cdn.miip.tv:8080/canada/123456/6402
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:YOUNG HOLLYWOOD
-http://cdn.miip.tv:8080/canada/123456/6401
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: VANITY FAIR
-http://cdn.miip.tv:8080/canada/123456/6400
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FBE
-http://cdn.miip.tv:8080/canada/123456/6399
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: 101 FACTS
-http://cdn.miip.tv:8080/canada/123456/6397
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:TMZ
-http://cdn.miip.tv:8080/canada/123456/6396
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:PEOPLE TV
-http://cdn.miip.tv:8080/canada/123456/6394
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: THE HOLLYWOOD REPORTED
-http://cdn.miip.tv:8080/canada/123456/6393
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: DUST
-http://cdn.miip.tv:8080/canada/123456/6392
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:SYFY WIRE
-http://cdn.miip.tv:8080/canada/123456/6391
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:PEOPLE MAGAZINE
-http://cdn.miip.tv:8080/canada/123456/6395
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COMIC BOOKS
-http://cdn.miip.tv:8080/canada/123456/6390
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ELECTRIC NOW
-http://cdn.miip.tv:8080/canada/123456/6389
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FAMILY FEUD
-http://cdn.miip.tv:8080/canada/123456/6388
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:ARCADE CLOUD TV
-http://cdn.miip.tv:8080/canada/123456/6387
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: MOBCRUSH TV
-http://cdn.miip.tv:8080/canada/123456/6386
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: GAMESPOT
-http://cdn.miip.tv:8080/canada/123456/6385
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: CHIVE TV
-http://cdn.miip.tv:8080/canada/123456/6384
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: PEOPLE ARE AWESOME
-http://cdn.miip.tv:8080/canada/123456/6383
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: LATIDO MUSIC
-http://cdn.miip.tv:8080/canada/123456/6381
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: MUSIC BAEBLE
-http://cdn.miip.tv:8080/canada/123456/6380
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: AUSTIN MUSIC LIVE
-http://cdn.miip.tv:8080/canada/123456/6379
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: REEL CHANNEL
-http://cdn.miip.tv:8080/canada/123456/6378
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COMPLEX
-http://cdn.miip.tv:8080/canada/123456/6382
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FORENSIC FILES
-http://cdn.miip.tv:8080/canada/123456/6377
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: REEL TRUTH DOCUMENTARIES
-http://cdn.miip.tv:8080/canada/123456/6376
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: HISTORY
-http://cdn.miip.tv:8080/canada/123456/6375
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: TITANIC CHANNEL
-http://cdn.miip.tv:8080/canada/123456/6374
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : FUSE
-http://cdn.miip.tv:8080/canada/123456/6373
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: BILLBOARD
-http://cdn.miip.tv:8080/canada/123456/6372
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: QELLO STINGRAY
-http://cdn.miip.tv:8080/canada/123456/6371
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : GOT TALENT GLOBAL
-http://cdn.miip.tv:8080/canada/123456/6370
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : SAMUEL GOLDWYN FILM
-http://cdn.miip.tv:8080/canada/123456/6369
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: THE ASYLUM
-http://cdn.miip.tv:8080/canada/123456/6368
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : HI YAH
-http://cdn.miip.tv:8080/canada/123456/6367
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : FILMHUB
-http://cdn.miip.tv:8080/canada/123456/6366
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV :AMERICAN CLASSIC
-http://cdn.miip.tv:8080/canada/123456/6365
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: THE GRAPEVINE
-http://cdn.miip.tv:8080/canada/123456/6364
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: SHOUT FACTORY TV
-http://cdn.miip.tv:8080/canada/123456/6363
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: THE ARCHIVE
-http://cdn.miip.tv:8080/canada/123456/6362
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: CON TV
-http://cdn.miip.tv:8080/canada/123456/6361
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: DOCURAMA
-http://cdn.miip.tv:8080/canada/123456/6360
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV :STERLING DRAMA
-http://cdn.miip.tv:8080/canada/123456/6359
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FILM RISE
-http://cdn.miip.tv:8080/canada/123456/6358
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: AMMO
-http://cdn.miip.tv:8080/canada/123456/6357
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: BINGE TV
-http://cdn.miip.tv:8080/canada/123456/6356
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV :REALITY
-http://cdn.miip.tv:8080/canada/123456/6355
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : DOCUMENTARIES
-http://cdn.miip.tv:8080/canada/123456/6354
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV : GRAVITAS MOVIES
-http://cdn.miip.tv:8080/canada/123456/6353
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV :KILLER MOVIES
-http://cdn.miip.tv:8080/canada/123456/6352
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV :HORROR MOVIES
-http://cdn.miip.tv:8080/canada/123456/6351
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FAMILY MOVIES
-http://cdn.miip.tv:8080/canada/123456/6350
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FREEMOVIES
-http://cdn.miip.tv:8080/canada/123456/6349
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COMEDY MOVIES
-http://cdn.miip.tv:8080/canada/123456/6347
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ACTION MOVIES
-http://cdn.miip.tv:8080/canada/123456/6346
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:SCIFI  FANTASY
-http://cdn.miip.tv:8080/canada/123456/6344
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ZOO
-http://cdn.miip.tv:8080/canada/123456/6343
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COMEDY DYNAMICS
-http://cdn.miip.tv:8080/canada/123456/5443
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: MAVERICK BLACK CINEMA
-http://cdn.miip.tv:8080/canada/123456/6348
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: BLACK CINEMA
-http://cdn.miip.tv:8080/canada/123456/6345
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ABOVE AVERAGE
-http://cdn.miip.tv:8080/canada/123456/5441
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:JUST FOR LAUGHS GAGS
-http://cdn.miip.tv:8080/canada/123456/5440
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COLLEGE HUMOR
-http://cdn.miip.tv:8080/canada/123456/5442
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: JUST FOR LAUGHS
-http://cdn.miip.tv:8080/canada/123456/5439
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:FUNNY OR DIE
-http://cdn.miip.tv:8080/canada/123456/5438
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FAIL ARMY
-http://cdn.miip.tv:8080/canada/123456/5437
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: REAL VISION
-http://cdn.miip.tv:8080/canada/123456/5436
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: USA TODAY NEWS
-http://cdn.miip.tv:8080/canada/123456/5435
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:CHEDDAR NEWS
-http://cdn.miip.tv:8080/canada/123456/5434
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: WOCHIT
-http://cdn.miip.tv:8080/canada/123456/5433
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: CBC NEWS
-http://cdn.miip.tv:8080/canada/123456/5431
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:LAW CRIME
-http://cdn.miip.tv:8080/canada/123456/5430
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:NEWSY
-http://cdn.miip.tv:8080/canada/123456/5429
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: NEWSMAX TV
-http://cdn.miip.tv:8080/canada/123456/5428
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: TIME
-http://cdn.miip.tv:8080/canada/123456/5427
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: GREAT BIG  STORY
-http://cdn.miip.tv:8080/canada/123456/5426
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: TODAY
-http://cdn.miip.tv:8080/canada/123456/5425
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: TYT
-http://cdn.miip.tv:8080/canada/123456/5432
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: NOW THIS
-http://cdn.miip.tv:8080/canada/123456/5424
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: BLOOMBERG TV
-http://cdn.miip.tv:8080/canada/123456/5423
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: CBS NEWS
-http://cdn.miip.tv:8080/canada/123456/5422
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: NBC NEWS NOW
-http://cdn.miip.tv:8080/canada/123456/5420
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: AMERICAS FUNNIEST HOME
-http://cdn.miip.tv:8080/canada/123456/5025
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ABC NEWS LIVE
-http://cdn.miip.tv:8080/canada/123456/5421
-#EXTINF:0 tvg-id="ext" group-title="Channels",ADULT:BISEXUAL
-http://cdn.miip.tv:8080/canada/123456/4158
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FUBO SPORT NETWORK
-http://cdn.miip.tv:8080/canada/123456/6500
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:BEINS SPORT XTRA
-http://cdn.miip.tv:8080/canada/123456/6499
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:COMBAT GO
-http://cdn.miip.tv:8080/canada/123456/6498
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: EDGE SPORT
-http://cdn.miip.tv:8080/canada/123456/6497
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: THE INERTIA
-http://cdn.miip.tv:8080/canada/123456/6496
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FTF NEXT
-http://cdn.miip.tv:8080/canada/123456/6495
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: WORLD TOUR POKER
-http://cdn.miip.tv:8080/canada/123456/6494
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COPA 90
-http://cdn.miip.tv:8080/canada/123456/6493
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: SPORTSGRID
-http://cdn.miip.tv:8080/canada/123456/6492
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:GLORY KICKBOXING
-http://cdn.miip.tv:8080/canada/123456/6491
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:FOOTBALL DAILY
-http://cdn.miip.tv:8080/canada/123456/6490
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:USGA
-http://cdn.miip.tv:8080/canada/123456/6489
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: WORLD SURF LEAGUE
-http://cdn.miip.tv:8080/canada/123456/6488
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:STADIUM
-http://cdn.miip.tv:8080/canada/123456/6487
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: USA TODAY SPORT WIRE
-http://cdn.miip.tv:8080/canada/123456/6486
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: MMA JUNKIE
-http://cdn.miip.tv:8080/canada/123456/6485
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ADVENTURE SPORT
-http://cdn.miip.tv:8080/canada/123456/6484
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: HARD KNOCKS FIGHTING CHAMPIONSHIP
-http://cdn.miip.tv:8080/canada/123456/6483
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:OUTSIDE TV
-http://cdn.miip.tv:8080/canada/123456/6482
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:NITRO CIRCUS
-http://cdn.miip.tv:8080/canada/123456/6481
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: WAYPOIN TV
-http://cdn.miip.tv:8080/canada/123456/6479
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: PGA TOUR
-http://cdn.miip.tv:8080/canada/123456/6478
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: OUTDOOR AMERICA
-http://cdn.miip.tv:8080/canada/123456/6477
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: CYCLE WORLD
-http://cdn.miip.tv:8080/canada/123456/6476
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FIELD STREAM
-http://cdn.miip.tv:8080/canada/123456/6475
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:FOX DEPORTES
-http://cdn.miip.tv:8080/canada/123456/6473
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: FOX SPORTS
-http://cdn.miip.tv:8080/canada/123456/6472
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: ACC DIGITAL NETWORK
-http://cdn.miip.tv:8080/canada/123456/6480
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:DOVE CHANNEL
-http://cdn.miip.tv:8080/canada/123456/6471
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: SPORT ILUSTRATED
-http://cdn.miip.tv:8080/canada/123456/6474
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:PUDDLE JUMPER
-http://cdn.miip.tv:8080/canada/123456/6470
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: KIDS GENIUS
-http://cdn.miip.tv:8080/canada/123456/6469
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:MR BEAN FRIENDS
-http://cdn.miip.tv:8080/canada/123456/6468
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV:BATTERY POP
-http://cdn.miip.tv:8080/canada/123456/6467
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: AMEBA
-http://cdn.miip.tv:8080/canada/123456/6466
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: KABILLION
-http://cdn.miip.tv:8080/canada/123456/6465
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: COOL SCHOOL
-http://cdn.miip.tv:8080/canada/123456/6464
-#EXTINF:0 tvg-id="ext" group-title="Channels",XUTV: TOON GOGGLES
-http://cdn.miip.tv:8080/canada/123456/6463
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA HAPPY MADISON 24/7
-http://cdn.miip.tv:8080/canada/123456/6944
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA PIXARS 24/7
-http://cdn.miip.tv:8080/canada/123456/6942
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA DREAMWORKS 24/7
-http://cdn.miip.tv:8080/canada/123456/6941
-#EXTINF:0 tvg-id="ext" group-title="Channels",MOVIE CENTER KIDS 24/7
-http://cdn.miip.tv:8080/canada/123456/6931
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA FAMILIAS 24/7
-http://cdn.miip.tv:8080/canada/123456/6940
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX NY
-http://cdn.miip.tv:8080/canada/123456/3581
-#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="Channels",NBC NY
-http://cdn.miip.tv:8080/canada/123456/3580
+
+#EXTINF:0 tvg-id="ext" group-title="Radio",AZ CLIC HD
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=11&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",LAS ESTRELLAS
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Radio",CANAL 5
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",NU9VE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Radio",ONCE
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",AZTECA UNO
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Radio",TELEFORMULA SD
+http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MEXIQUENSE TV
+http://cinematicket.club/tp2.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Radio",AZ CORAZON
+http://cinematicket.club/tp2.php?c=70&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="Radio",AZ MUNDO
+http://cinematicket.club/tp2.php?c=84&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7 HD
+http://cinematicket.club/tp2.php?c=317&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7 HD (2)
+http://cinematicket.club/tp2.php?c=322&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",IMAGEN TV
+http://cinematicket.club/tp2.php?c=2298&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MULTIMEDIOS MTY
+http://cinematicket.club/tp2.php?c=2305&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",APREDNE TV
+http://cinematicket.club/tp2.php?c=401&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MULTIMEDIOS CDMX
+http://cinematicket.club/tp2.php?c=1253&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",NU9VE HD
+http://cinematicket.club/tp2.php?c=1783&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",LAS ESTRELLAS HD
+http://cinematicket.club/tp2.php?c=1784&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Canal5HD.mx" group-title="Radio",CANAL 5 HD (2)
+http://cinematicket.club/tp2.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Radio",ONCE HD
+http://cinematicket.club/tp2.php?c=1942&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MVS TV
+http://cinematicket.club/tp2.php?c=2149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tvcen" group-title="Radio",TVC
+http://cinematicket.club/tp2.php?c=2156&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",CANAL 4
+http://cinematicket.club/tp2.php?c=2274&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",CANAL 8
+http://cinematicket.club/tp2.php?c=2307&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TELEVISA PUEBLA
+http://cinematicket.club/tp2.php?c=2312&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",A+
+http://cinematicket.club/tp2.php?c=2316&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TVMAS
+http://cinematicket.club/tp2.php?c=2324&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",CANAL DEL CONGRESO
+http://cinematicket.club/tp2.php?c=2331&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MULTIMEDIOS CDMX
+http://cinematicket.club/tp2.php?c=2352&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",IMAGEN TV HD
+http://cinematicket.club/tp2.php?c=2606&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",ACADEMIA
+http://cinematicket.club/tp2.php?c=2703&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Radio",MULTIMEDIOS HD
+http://cinematicket.club/tp2.php?c=2882&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Radio",TOONCAST
+http://cinematicket.club/tp2.php?c=108&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Radio",DISCOVERY KIDS
+http://cinematicket.club/tp2.php?c=109&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="nickelod" group-title="Radio",NICK
+http://cinematicket.club/tp2.php?c=110&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Radio",DISNEY XD
+http://cinematicket.club/tp2.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Radio",CARTOON NETWORK
+http://cinematicket.club/tp2.php?c=112&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Radio",DISNEY CHANNEL
+http://cinematicket.club/tp2.php?c=113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Radio",BOOMERANG
+http://cinematicket.club/tp2.php?c=115&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="Radio",BABY TV
+http://cinematicket.club/tp2.php?c=116&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Radio",NICK JR
+http://cinematicket.club/tp2.php?c=117&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Radio",DISNEY JR
+http://cinematicket.club/tp2.php?c=118&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Radio",NICKTOONS SD
+http://cinematicket.club/tp2.php?c=1708&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="Radio",BABY FIRST
+http://cinematicket.club/tp2.php?c=1984&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Radio",NICK 2
+http://cinematicket.club/tp2.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",NAT GEO KIDS
+http://cinematicket.club/tp2.php?c=2373&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",BIT ME
+http://cinematicket.club/tp2.php?c=2591&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Radio",TBS SD
+http://cinematicket.club/tp2.php?c=81&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",DE PELICULA +
+http://cinematicket.club/tp2.php?c=121&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",GOLDEN +
+http://cinematicket.club/tp2.php?c=122&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Radio",GOLDEN
+http://cinematicket.club/tp2.php?c=123&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Radio",GOLDEN EDGE
+http://cinematicket.club/tp2.php?c=124&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Radio",TNT
+http://cinematicket.club/tp2.php?c=126&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="Radio",TCM
+http://cinematicket.club/tp2.php?c=128&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Radio",SPACE
+http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Radio",AMC
+http://cinematicket.club/tp2.php?c=131&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Radio",STUDIO UNIVERSAL
+http://cinematicket.club/tp2.php?c=132&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Radio",I SAT
+http://cinematicket.club/tp2.php?c=135&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",EUROPA CHANNEL
+http://cinematicket.club/tp2.php?c=136&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="Radio",FILMS & ARTS
+http://cinematicket.club/tp2.php?c=137&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Radio",FXM
+http://cinematicket.club/tp2.php?c=138&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Radio",FXM SD
+http://cinematicket.club/tp2.php?c=332&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="Radio",FOX SERIES
+http://cinematicket.club/tp2.php?c=139&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MORBIDO
+http://cinematicket.club/tp2.php?c=140&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Radio",FOX MOVIES
+http://cinematicket.club/tp2.php?c=146&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Radio",CINECANAL
+http://cinematicket.club/tp2.php?c=149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Radio",CINEMAX
+http://cinematicket.club/tp2.php?c=158&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Radio",AMC
+http://cinematicket.club/tp2.php?c=328&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Radio",DE PELICULA SD
+http://cinematicket.club/tp2.php?c=335&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Radio",FOX ACTION
+http://cinematicket.club/tp2.php?c=336&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="paramount" group-title="Radio",PARAMOUNT CHANNEL
+http://cinematicket.club/tp2.php?c=1726&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Radio",FOX CINEMA SD
+http://cinematicket.club/tp2.php?c=1729&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Radio",FOX CLASSICS SD
+http://cinematicket.club/tp2.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",AZ CINEMA
+http://cinematicket.club/tp2.php?c=1787&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TELEMUNDO INTERNACIONAL HD
+http://cinematicket.club/tp2.php?c=85&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Radio",FOX
+http://cinematicket.club/tp2.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="set" group-title="Radio",SONY
+http://cinematicket.club/tp2.php?c=48&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Radio",WARNER
+http://cinematicket.club/tp2.php?c=52&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Radio",E!
+http://cinematicket.club/tp2.php?c=55&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Radio",UNIVERSAL
+http://cinematicket.club/tp2.php?c=57&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Radio",SYFY
+http://cinematicket.club/tp2.php?c=59&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Radio",FX
+http://cinematicket.club/tp2.php?c=60&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Radio",A&E
+http://cinematicket.club/tp2.php?c=62&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Radio",AXN
+http://cinematicket.club/tp2.php?c=64&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Radio",UNICABLE SD
+http://cinematicket.club/tp2.php?c=66&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Radio",SUNDANCE TV
+http://cinematicket.club/tp2.php?c=69&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Radio",TNT SERIES
+http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Radio",GLITZ
+http://cinematicket.club/tp2.php?c=76&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Radio",GOURMET
+http://cinematicket.club/tp2.php?c=74&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Radio",FOX LIFE
+http://cinematicket.club/tp2.php?c=77&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Radio",DISTRITO COMEDIA SD
+http://cinematicket.club/tp2.php?c=78&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Radio",TRUTV
+http://cinematicket.club/tp2.php?c=79&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TLNovelas.pe" group-title="Radio",TL NOVELAS SD
+http://cinematicket.club/tp2.php?c=83&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Radio",LIFETIME
+http://cinematicket.club/tp2.php?c=94&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.ro" group-title="Radio",ANTENA 3
+http://cinematicket.club/tp2.php?c=199&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="fox-hd" group-title="Radio",FOX HD
+http://cinematicket.club/tp2.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Radio",WARNER HD
+http://cinematicket.club/tp2.php?c=205&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Radio",UNIVERSAL HD
+http://cinematicket.club/tp2.php?c=207&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Radio",FX HD
+http://cinematicket.club/tp2.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TruTVHD.mx" group-title="Radio",TRUTV HD
+http://cinematicket.club/tp2.php?c=215&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Radio",HOLA TV HD
+http://cinematicket.club/tp2.php?c=219&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Radio",COMEDY CENTRAL
+http://cinematicket.club/tp2.php?c=340&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Radio",COMEDY CENTRAL SD
+http://cinematicket.club/tp2.php?c=341&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Radio",UNICABLE
+http://cinematicket.club/tp2.php?c=1499&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Radio",MAS CHIC
+http://cinematicket.club/tp2.php?c=1842&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="Radio",A3SERIES
+http://cinematicket.club/tp2.php?c=2113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="Radio",ESPN +
+http://cinematicket.club/tp2.php?c=167&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Radio",ESPN
+http://cinematicket.club/tp2.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Radio",ESPN 2
+http://cinematicket.club/tp2.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Radio",FOX SPORTS
+http://cinematicket.club/tp2.php?c=170&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Radio",FOX SPORTS 2
+http://cinematicket.club/tp2.php?c=172&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TUDN
+http://cinematicket.club/tp2.php?c=174&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Radio",FOX SPORTS 3
+http://cinematicket.club/tp2.php?c=178&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Golf.sp" group-title="Radio",GOLF
+http://cinematicket.club/tp2.php?c=179&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Radio",AYM SPORTS
+http://cinematicket.club/tp2.php?c=180&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Radio",ESPN 3
+http://cinematicket.club/tp2.php?c=345&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TUDN HD (2)
+http://cinematicket.club/tp2.php?c=1049&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",ADRENALINA SPORTS HD
+http://cinematicket.club/tp2.php?c=1799&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",LAS
+http://cinematicket.club/tp2.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",HAVOC
+http://cinematicket.club/tp2.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Radio",TVC DEPORTES
+http://cinematicket.club/tp2.php?c=2157&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",CLARO SPORTS HD
+http://cinematicket.club/tp2.php?c=2564&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Radio",FUEL TV HD
+http://cinematicket.club/tp2.php?c=2587&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Radio",DISCOVERY ID
+http://cinematicket.club/tp2.php?c=68&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="Radio",GARAGE TV
+http://cinematicket.club/tp2.php?c=75&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Radio",DISCOVERY CHANNEL
+http://cinematicket.club/tp2.php?c=86&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Radio",ANIMAL PLANET
+http://cinematicket.club/tp2.php?c=88&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="Radio",HISTORY
+http://cinematicket.club/tp2.php?c=89&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Radio",NAT GEO
+http://cinematicket.club/tp2.php?c=91&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Radio",NAT GEO WILD
+http://cinematicket.club/tp2.php?c=92&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Radio",DISCOVERY THEATER
+http://cinematicket.club/tp2.php?c=95&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Radio",H&H
+http://cinematicket.club/tp2.php?c=96&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Radio",TLC
+http://cinematicket.club/tp2.php?c=97&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Radio",DISCOVERY SCIENCE
+http://cinematicket.club/tp2.php?c=98&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Radio",DISCOVERY CIVILIZATION
+http://cinematicket.club/tp2.php?c=99&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Radio",DISCOVERY WORLD
+http://cinematicket.club/tp2.php?c=101&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TVE.se" group-title="Radio",TVE
+http://cinematicket.club/tp2.php?c=198&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="shopping-live" group-title="Radio",SHOPPING
+http://cinematicket.club/tp2.php?c=1943&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="food-network-rus" group-title="Radio",FOOD NETWORK
+http://cinematicket.club/tp2.php?c=2145&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="StarTVE.cl" group-title="Radio",STAR TVE
+http://cinematicket.club/tp2.php?c=2375&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Radio",DISCOVERY TURBO
+http://cinematicket.club/tp2.php?c=2379&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",CURIOSITY STREAM
+http://cinematicket.club/tp2.php?c=2594&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Radio",MTV LIVE
+http://cinematicket.club/tp2.php?c=211&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Radio",MTV
+http://cinematicket.club/tp2.php?c=212&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Radio",MTV HITS SD
+http://cinematicket.club/tp2.php?c=213&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="vh-1-classic" group-title="Radio",VH1 CLASSIC SD
+http://cinematicket.club/tp2.php?c=214&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Radio",VH1 SD
+http://cinematicket.club/tp2.php?c=217&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TELEHIT URBANO SD
+http://cinematicket.club/tp2.php?c=218&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",TELEHIT +
+http://cinematicket.club/tp2.php?c=220&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="Radio",BANDAMAX SD
+http://cinematicket.club/tp2.php?c=221&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="AzClic.mx" group-title="Radio",AZ CLIC
+http://cinematicket.club/tp2.php?c=223&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Radio",VH1 HD
+http://cinematicket.club/tp2.php?c=334&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",FOROTV HD
+http://cinematicket.club/tp2.php?c=4&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="FOROtv.us" group-title="Radio",FOROTV SD
+http://cinematicket.club/tp2.php?c=19&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",ADN40
+http://cinematicket.club/tp2.php?c=40&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",ADN 40 HD
+http://cinematicket.club/tp2.php?c=184&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="Radio",CNN
+http://cinematicket.club/tp2.php?c=185&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="Radio",CNN SD
+http://cinematicket.club/tp2.php?c=186&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",CNN Ñ SD
+http://cinematicket.club/tp2.php?c=187&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="WOBI.ar" group-title="Radio",WOBI
+http://cinematicket.club/tp2.php?c=102&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",FOXN EWS
+http://cinematicket.club/tp2.php?c=188&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="Radio",BLOOMBERG
+http://cinematicket.club/tp2.php?c=190&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="bbc" group-title="Radio",BBC SD
+http://cinematicket.club/tp2.php?c=191&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",AL JAAZERA
+http://cinematicket.club/tp2.php?c=192&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="NTN24.us" group-title="Radio",NTN 24
+http://cinematicket.club/tp2.php?c=194&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",JUSTICIA TV
+http://cinematicket.club/tp2.php?c=196&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="HLN.us" group-title="Radio",HLN
+http://cinematicket.club/tp2.php?c=197&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Radio",DW
+http://cinematicket.club/tp2.php?c=203&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="russia-today" group-title="Radio",RT
+http://cinematicket.club/tp2.php?c=999&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",MILENIO HD
+http://cinematicket.club/tp2.php?c=1250&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="MilenioTV.mx" group-title="Radio",MILENIO SD
+http://cinematicket.club/tp2.php?c=1252&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="Cadena3.mx" group-title="Radio",EXCELSIOR TV
+http://cinematicket.club/tp2.php?c=1449&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",EL FINANCIERO HD
+http://cinematicket.club/tp2.php?c=1649&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Radio",RT ESPAÑOL
+http://cinematicket.club/tp2.php?c=2091&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="france24" group-title="Radio",FRANCE 24
+http://cinematicket.club/tp2.php?c=2402&p=3&k=tecnotv&f=.m3u8
